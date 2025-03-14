@@ -1,10 +1,5 @@
 # Cours de flutter IW M2
 
-TP2 : Liste interactive
+Répertoire des différents TP/TD du cours de flutter
 
-TP2.5 ? : Navigation flutter
-
-TD1 : tp_navigation_data
-
-TP3 : clean archi (pas fini)
-
+Le clean archi n'est pas fini (non fonctionnel)
